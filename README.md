@@ -13,8 +13,10 @@ This is the code of MGSC!
 ·networkx==2.5.1 <br>
 
 # Dataset 
-  the dataset name (please refer to https://chrsmrrs.github.io/datasets/docs/datasets/) <br>
-  
+  ·unsupervised <br>
+  https://chrsmrrs.github.io/datasets/docs/datasets/ to download dataset.<br>
+  ·transfer <br>
+  https://github.com/snap-stanford/pretrain-gnns#dataset-download to download dataset. <br>
 # Training & Evaluation
 
 · Unsupervised <br>
@@ -24,8 +26,10 @@ This is the code of MGSC!
 
 · Transfer <br>
    · Pre-train <br>
-      cd pretrain
+      cd transfer <br>
+      sh pretrain.sh <br>
       
    
    · Fine-tune <br>
+      sh finetune.sh <br>
    
