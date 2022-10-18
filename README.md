@@ -32,6 +32,6 @@ This is the code of MGSC!
    · Fine-tune <br>
       sh finetune.sh <br>
    
-#Hyperparameters
+# Hyperparameters
   The settings of the hyperparameters are detailed in the experimental section and the appendix section of the paper.
 
