@@ -32,4 +32,9 @@ This is the code of MGSC!
    
 # Hyperparameters
   The settings of the hyperparameters are detailed in the experimental section and the appendix section of the paper.
+  
+# Special Matters
+  In an unsupervised learning settings, you should replace the onehot function in the aug.py file with the corresponding file in our directory, which is only used to get the feature matrix for the social network dataset.
+
+
 
