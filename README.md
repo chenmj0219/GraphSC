@@ -12,8 +12,16 @@ This is the code of MGSC!
 ·tqdm
 ·networkx==2.5.1
 
-
+# Dataset 
+  the dataset name (please refer to https://chrsmrrs.github.io/datasets/docs/datasets/)
+  
 # Training & Evaluation
 
 · Unsupervised
+  sh run.sh
 
+
+· Transfer
+   · Pre-train
+   · Fine-tune
+   
