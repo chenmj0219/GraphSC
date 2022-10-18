@@ -18,18 +18,16 @@ This is the code of MGSC!
   ## transfer
   https://github.com/snap-stanford/pretrain-gnns#dataset-download to download dataset. <br>
 # Training & Evaluation
-
-· Unsupervised <br>
+  ## Unsupervised
   cd unsupervised <br>
   sh run.sh <br>
 
-· Transfer <br>
-   · Pre-train <br>
+  ## Transfer
+   ### Pre-train
       cd transfer <br>
-      sh pretrain.sh <br>
-      
+      sh pretrain.sh <br> 
    
-   · Fine-tune <br>
+   ### Fine-tune
       sh finetune.sh <br>
    
 # Hyperparameters
