@@ -13,9 +13,9 @@ This is the code of MGSC!
 ·networkx==2.5.1 <br>
 
 # Dataset 
-  ·unsupervised <br>
+  ## unsupervised
   https://chrsmrrs.github.io/datasets/docs/datasets/ to download dataset.<br>
-  ·transfer <br>
+  ## transfer
   https://github.com/snap-stanford/pretrain-gnns#dataset-download to download dataset. <br>
 # Training & Evaluation
 
