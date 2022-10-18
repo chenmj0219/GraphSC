@@ -19,12 +19,12 @@ This is the code of MGSC!
   https://github.com/snap-stanford/pretrain-gnns#dataset-download to download dataset. <br>
 # Training & Evaluation
   ## Unsupervised
-    cd unsupervised <br>
-    sh run.sh
+      cd unsupervised
+      sh run.sh
 
   ## Transfer
    ### Pre-train
-      cd transfer <br>
+      cd transfer
       sh pretrain.sh 
    
    ### Fine-tune
