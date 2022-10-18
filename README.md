@@ -23,7 +23,6 @@ This is the code of MGSC!
   cd unsupervised <br>
   sh run.sh <br>
 
-
 · Transfer <br>
    · Pre-train <br>
       cd transfer <br>
@@ -33,3 +32,6 @@ This is the code of MGSC!
    · Fine-tune <br>
       sh finetune.sh <br>
    
+#Hyperparameters
+  The settings of the hyperparameters are detailed in the experimental section and the appendix section of the paper.
+
