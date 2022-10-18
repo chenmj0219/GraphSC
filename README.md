@@ -5,23 +5,27 @@ This is the code of MGSC!
 # Dependencies
 
 ·torch==1.10.2 <br>
-·torch-geometric==2.0.3
-·torch-scatter==2.0.9
-·torch-sparse==0.6.12
-·scikit-learn-intelex
-·tqdm
-·networkx==2.5.1
+·torch-geometric==2.0.3 <br>
+·torch-scatter==2.0.9 <br>
+·torch-sparse==0.6.12 <br>
+·scikit-learn-intelex <br>
+·tqdm <br>
+·networkx==2.5.1 <br>
 
 # Dataset 
-  the dataset name (please refer to https://chrsmrrs.github.io/datasets/docs/datasets/)
+  the dataset name (please refer to https://chrsmrrs.github.io/datasets/docs/datasets/) <br>
   
 # Training & Evaluation
 
-· Unsupervised
-  sh run.sh
+· Unsupervised <br>
+  cd unsupervised <br>
+  sh run.sh <br>
 
 
-· Transfer
-   · Pre-train
-   · Fine-tune
+· Transfer <br>
+   · Pre-train <br>
+      cd pretrain
+      
+   
+   · Fine-tune <br>
    
