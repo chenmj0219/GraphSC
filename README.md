@@ -20,15 +20,15 @@ This is the code of MGSC!
 # Training & Evaluation
   ## Unsupervised
   cd unsupervised <br>
-  sh run.sh <br>
+  sh run.sh
 
   ## Transfer
    ### Pre-train
       cd transfer <br>
-      sh pretrain.sh <br> 
+      sh pretrain.sh 
    
    ### Fine-tune
-      sh finetune.sh <br>
+      sh finetune.sh
    
 # Hyperparameters
   The settings of the hyperparameters are detailed in the experimental section and the appendix section of the paper.
