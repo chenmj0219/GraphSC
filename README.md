@@ -1,6 +1,6 @@
-# MGSC
+# GraphSC
 
-This is the code of MGSC!
+This is the code of GraphSC!
 
 # Dependencies
 
